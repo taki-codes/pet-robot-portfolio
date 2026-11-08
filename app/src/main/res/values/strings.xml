@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ミーニャ</string>
+    <string name="heartbeat_channel_name">Reliability heartbeat</string>
+    <string name="heartbeat_channel_description">Shows whether the Miinya process remains active.</string>
+    <string name="heartbeat_notification_title">ミーニャ heartbeat</string>
+    <string name="heartbeat_notification_text">Running %1$s · heartbeat %2$d</string>
+    <string name="pet_name">ミーニャ</string>
+    <string name="pet_face_content_description">ミーニャの顔</string>
+    <string name="pet_face_tap_hint">顔をタップすると、こちらを見ます</string>
+    <string name="timing_evaluation_title">休憩タイミングの評価</string>
+    <string name="timing_evaluation_description">現在の休憩候補の判定タイミングを選んでください</string>
+    <string name="timing_evaluation_open">評価メニュー</string>
+    <string name="timing_evaluation_close">閉じる</string>
+    <string name="timing_too_early">早すぎる</string>
+    <string name="timing_just_right">ちょうどよい</string>
+    <string name="timing_too_late">遅すぎる</string>
+    <string name="replay_seven_days">7日間ログを再評価</string>
+</resources>
